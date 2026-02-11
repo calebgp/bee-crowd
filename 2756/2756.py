@@ -1,4 +1,9 @@
-spaces_b = 7
-spaces_a = 1
-letters = ["A", "B", "C", "D", "E"]
-
+print("       A")
+print("      B B")
+print("     C   C")
+print("    D     D")
+print("   E       E")
+print("    D     D")
+print("     C   C")
+print("      B B")
+print("       A")
